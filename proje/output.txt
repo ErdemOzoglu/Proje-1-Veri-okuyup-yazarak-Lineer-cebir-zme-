@@ -1,0 +1,60 @@
+
+secilen dosya uyumludur...
+754 en ile 7087 en uzak noktalar..
+bu noktalar en uzak noktalarin koordinatlari..4.981094 0.087787 99.749025 , 94.957733 98.022101 0.558709
+
+4559 en ile 4600 en yakin noktalar..
+bu noktalar en yakin noktalarin koordinatlari..97.079500 33.694392 22.512338 , 97.035800 33.674645 22.449870
+
+165.908542 en uzak mesafe,, 0.078752 en yakin mesafedir..
+
+1. kose bilgileri..0.015070 0.003270 0.012146 
+
+2. kose bilgileri..99.999297 0.003270 0.012146 
+
+3. kose bilgileri..0.015070 99.987497 0.012146 
+
+4. kose bilgileri..0.015070 0.003270 99.996373 
+
+5. kose bilgileri..99.999297 99.987497 0.012146 
+
+6. kose bilgileri..99.999297 0.003270 99.996373 
+
+7. kose bilgileri..0.015070 99.987497 99.996373 
+
+8. kose bilgileri..99.999297 99.987497 99.996373 
+
+493 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+578 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+1506 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+1512 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+2236 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+3511 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+4358 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+5055 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+5399 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+5494 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+7728 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+8259 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+8651 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+9225 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+9491 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+9622 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+
+9933 . nokta, verilen bilgilerle olusturulan kurenin icindedir
+tüm noktalarin uzakliklari ortalamasi...65.596768
